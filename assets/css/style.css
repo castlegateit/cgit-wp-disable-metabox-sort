@@ -1,0 +1,11 @@
+.postbox .hndle {
+    cursor: inherit !important;
+}
+
+.postbox .handle-actions {
+    display: none !important;
+}
+
+.postbox.closed .inside {
+    display: block !important;
+}
